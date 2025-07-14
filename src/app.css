@@ -118,7 +118,7 @@ button:focus-visible {
 }
 
 .card > img {
-    border: 2px solid #3498db;
+    border: 2px solid #555;
     border-radius: 8px;
     width: 200px;
     height: 200px;
